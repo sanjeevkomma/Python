@@ -1,6 +1,6 @@
 # Prerequisites
-* [Download Python](https://www.anaconda.com/products/individual#download-section)
-* [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads)
+* [Download Python](https://www.anaconda.com/products/individual#download-section) Its from Microsoft
+* [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
 * [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
 * [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 # Python Frameworks and Libraries
