@@ -4,6 +4,7 @@
 * Command : python --version
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
 * [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+* Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner
 * [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 # Python Frameworks and Libraries
 * Web development (Server-side) - Django Flask, Pyramid, CherryPy
