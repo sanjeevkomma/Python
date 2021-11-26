@@ -9,7 +9,7 @@
 * Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner
 * [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 # Python Frameworks and Libraries
-* Web development (Server-side) - Django Flask, Pyramid, CherryPy
-* GUIs based applications - Tk, PyGTK, PyQt, PyJs, etc.
-* Machine Learning - TensorFlow, PyTorch, Scikit-learn, Matplotlib, Scipy, etc.
-* Mathematics - Numpy, Pandas, etc.
+* Django Flask, Pyramid, CherryPy --- Web development (Server-side) 
+* Tk, PyGTK, PyQt, PyJs  --- GUIs based applications
+* TensorFlow, PyTorch, Scikit-learn, Matplotlib, Scipy  --- Machine Learning 
+* Numpy, Pandas --- Mathematics
