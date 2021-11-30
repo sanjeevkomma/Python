@@ -1,7 +1,7 @@
 # Prerequisites
 * [Download Python](https://www.anaconda.com/products/individual#download-section) Its from Microsoft
 * [How to Set Path](https://www.javatpoint.com/how-to-set-python-path)
-* Command : python --version
+* Command : python --version , python -V
 * [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
 # Reference
 * [Python in VS Code](https://code.visualstudio.com/docs/languages/python)
