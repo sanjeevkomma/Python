@@ -13,3 +13,5 @@
 * Tk, PyGTK, PyQt, PyJs  --- GUIs based applications
 * TensorFlow, PyTorch, Scikit-learn, Matplotlib, Scipy  --- Machine Learning 
 * Numpy, Pandas --- Mathematics
+# To Read
+* We don't need to use data types to declare variable because it is dynamically typed so we can write a=10 to assign an integer value in an integer variable
