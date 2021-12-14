@@ -12,6 +12,7 @@
 * Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner
 * [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) = PyCharm is Python IDE
+* [Spyder](https://www.spyder-ide.org/) = Spyder is Python IDE
 # Python Frameworks and Libraries
 * Django Flask, Pyramid, CherryPy --- Web development (Server-side) 
 * Tk, PyGTK, PyQt, PyJs  --- GUIs based applications
