@@ -27,7 +27,7 @@
 | Scikit-learn  | Machine Learning |
 | [Matplotlib](https://www.javatpoint.com/how-to-install-matplotlib-in-python)  | plot the graphs, Machine Learning |
 | Scipy  | Machine Learning |
-| Numpy  | Mathematics |
+| [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)  | Mathematics |
 | Pandas  | Mathematics |
 
 # Tutorial
