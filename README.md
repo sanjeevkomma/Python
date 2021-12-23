@@ -21,7 +21,7 @@
 | Tkinter   | GUIs based applications |
 | PyGTK   | GUIs based applications |
 | PyQt   | GUIs based applications |
-| PyJS  | GUIs based applications |
+| [PyJS](http://pyjs.org/ControlsTutorial.html)  | GUIs based applications |
 | TensorFlow   | Machine Learning  | 
 | PyTorch   | Machine Learning  |
 | Scikit-learn  | Machine Learning |
