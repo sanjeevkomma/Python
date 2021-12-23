@@ -30,6 +30,9 @@
 | Numpy  | Mathematics |
 | Pandas  | Mathematics |
 
+# Tutorial
+* [Python Frameworks](https://www.javatpoint.com/python-frameworks)
+* [Python Unit Testing](https://www.javatpoint.com/python-unit-testing)
 
 # Reference
 * [Python in VS Code](https://code.visualstudio.com/docs/languages/python)
@@ -38,5 +41,4 @@
 * [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) = PyCharm is Python IDE
 * [Spyder](https://www.spyder-ide.org/) = Spyder is Python IDE
-* [Python Frameworks](https://www.javatpoint.com/python-frameworks)
-* [Python Unit Testing](https://www.javatpoint.com/python-unit-testing)
+
