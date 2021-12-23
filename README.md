@@ -14,18 +14,18 @@
 # Python Frameworks and Libraries
 | #Framework / Libraries | #Usage | 
 | :---: | :---: | 
-| Django  | Web development (Server-side) |
-| Flask   | Web development (Server-side) |
+| [Django](https://www.javatpoint.com/django-tutorial)  | Web development (Server-side) |
+| [Flask](https://www.javatpoint.com/flask-tutorial)   | Web development (Server-side) |
 | Pyramid   | Web development (Server-side) |
 | CherryPy  | Web development (Server-side) |
 | Tkinter   | GUIs based applications |
-| PyGTK   | GUIs based applications |
-| PyQt   | GUIs based applications |
+| [PyGTK](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#gtk)   | GUIs based applications |
+| [PyQt](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#pyqt)   | GUIs based applications |
 | [PyJS](http://pyjs.org/ControlsTutorial.html)  | GUIs based applications |
 | TensorFlow   | Machine Learning  | 
 | PyTorch   | Machine Learning  |
 | Scikit-learn  | Machine Learning |
-| Matplotlib  | Machine Learning |
+| [Matplotlib](https://www.javatpoint.com/how-to-install-matplotlib-in-python)  | plot the graphs, Machine Learning |
 | Scipy  | Machine Learning |
 | Numpy  | Mathematics |
 | Pandas  | Mathematics |
@@ -39,3 +39,4 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) = PyCharm is Python IDE
 * [Spyder](https://www.spyder-ide.org/) = Spyder is Python IDE
 * [Python Frameworks](https://www.javatpoint.com/python-frameworks)
+* [Python Unit Testing](https://www.javatpoint.com/python-unit-testing)
