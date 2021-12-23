@@ -12,10 +12,24 @@
 * python Test.py
 
 # Python Frameworks and Libraries
-* Django Flask, Pyramid, CherryPy --- Web development (Server-side) 
-* Tk, PyGTK, PyQt, PyJs  --- GUIs based applications
-* TensorFlow, PyTorch, Scikit-learn, Matplotlib, Scipy  --- Machine Learning 
-* Numpy, Pandas --- Mathematics
+| #Framework / Libraries | #Usage | 
+| :---: | :---: | 
+| Django  | Web development (Server-side) |
+| Flask   | Web development (Server-side) |
+| Pyramid   | Web development (Server-side) |
+| CherryPy  | Web development (Server-side) |
+| Tkinter   | GUIs based applications |
+| PyGTK   | GUIs based applications |
+| PyQt   | GUIs based applications |
+| PyJS  | GUIs based applications |
+| TensorFlow   | Machine Learning  | 
+| PyTorch   | Machine Learning  |
+| Scikit-learn  | Machine Learning |
+| Matplotlib  | Machine Learning |
+| Scipy  | Machine Learning |
+| Numpy  | Mathematics |
+| Pandas  | Mathematics |
+
 
 # Reference
 * [Python in VS Code](https://code.visualstudio.com/docs/languages/python)
