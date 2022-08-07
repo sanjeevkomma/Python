@@ -15,23 +15,23 @@
 * python Test.py
 
 # Python Frameworks and Libraries
-| #Framework / Libraries | #Usage | 
-| :---: | :---: | 
-| [Django](https://www.javatpoint.com/django-tutorial)  | Web development (Server-side) |
-| [Flask](https://www.javatpoint.com/flask-tutorial)   | Web development (Server-side) |
-| Pyramid   | Web development (Server-side) |
-| CherryPy  | Web development (Server-side) |
-| Tkinter   | GUIs based applications |
-| [PyGTK](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#gtk)   | GUIs based applications |
-| [PyQt](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#pyqt)   | GUIs based applications |
-| [PyJS](http://pyjs.org/ControlsTutorial.html)  | GUIs based applications |
-| TensorFlow   | Machine Learning  | 
-| PyTorch   | Machine Learning  |
-| Scikit-learn  | Machine Learning |
-| [Matplotlib](https://www.javatpoint.com/how-to-install-matplotlib-in-python)  | plot the graphs, Machine Learning |
-| Scipy  | Machine Learning |
-| [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)  | Mathematics |
-| Pandas  | Mathematics |
+|#SNo| #Framework / Libraries | #Usage | 
+| :--- | :--- | :--- |
+|1 | [Django](https://www.javatpoint.com/django-tutorial)  | Web development (Server-side) |
+| 2| [Flask](https://www.javatpoint.com/flask-tutorial)   | Web development (Server-side) |
+| 3| Pyramid   | Web development (Server-side) |
+| 4| CherryPy  | Web development (Server-side) |
+| 5| Tkinter   | GUIs based applications |
+| 6| [PyGTK](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#gtk)   | GUIs based applications |
+| 7| [PyQt](https://python-guide-kr.readthedocs.io/ko/latest/scenarios/gui.html#pyqt)   | GUIs based applications |
+| 8| [PyJS](http://pyjs.org/ControlsTutorial.html)  | GUIs based applications |
+| 9| TensorFlow   | Machine Learning  | 
+| 10| PyTorch   | Machine Learning  |
+|11 | Scikit-learn  | Machine Learning |
+|12 | [Matplotlib](https://www.javatpoint.com/how-to-install-matplotlib-in-python)  | plot the graphs, Machine Learning |
+|13 | Scipy  | Machine Learning |
+|14 | [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)  | Mathematics |
+|15 | Pandas  | Mathematics |
 
 # Tutorial
 * [Python Frameworks](https://www.javatpoint.com/python-frameworks)
