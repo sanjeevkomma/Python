@@ -7,7 +7,7 @@
 # Installation
 * [Download Python](https://www.anaconda.com/products/individual#download-section) Its from Microsoft
 * [How to Set Path](https://www.javatpoint.com/how-to-set-python-path)
-* [Download VS Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
+* [Download Visual Studio Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
 
 # Commands
 * python --version
