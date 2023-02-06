@@ -3,6 +3,8 @@
 
 # To Read
 * We don't need to use data types to declare variable because it is dynamically typed so we can write a=10 to assign an integer value in an integer variable
+* Python supports Object oriented programming & Structured / Procedural programming 
+* PEB 8 is style guide for Python
 
 # Installation
 * [Download Python](https://www.anaconda.com/products/individual#download-section) Its from Microsoft
