@@ -36,7 +36,7 @@
 |15 | Pandas  | Mathematics |
 |16 | [PySpark](https://www.javatpoint.com/pyspark)  | Python library for Apache Spark, a distributed computing framework used for large-scale data processing |
 
-# [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/
+# [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 |#SNo| #IDE | #Usage | 
 | :--- | :--- | :--- |
 |1 | [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  | Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner |
