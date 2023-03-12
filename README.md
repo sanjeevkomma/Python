@@ -36,16 +36,19 @@
 |15 | Pandas  | Mathematics |
 |16 | [PySpark](https://www.javatpoint.com/pyspark)  | Python library for Apache Spark, a distributed computing framework used for large-scale data processing |
 
+# IDE
+|#SNo| #IDE | #Usage | 
+| :--- | :--- | :--- |
+|1 | [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)  |Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner  |
+|2 | [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  |  |
+|3| [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)   | |
+|4| [Spyder](https://www.spyder-ide.org/)  | Web development (Server-side) |
+
 # Tutorial
 * [Python Frameworks](https://www.javatpoint.com/python-frameworks)
 * [Python Unit Testing](https://www.javatpoint.com/python-unit-testing)
 
 # Reference
 * [Java To Python in 100 Steps - GitHub](https://github.com/in28minutes/java-to-python-in-100-steps)
-* [Python in VS Code](https://code.visualstudio.com/docs/languages/python)
 * [Python Tutorial in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-* Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner
-* [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
-* [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) = PyCharm is Python IDE
-* [Spyder](https://www.spyder-ide.org/) = Spyder is Python IDE
 
