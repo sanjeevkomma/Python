@@ -36,13 +36,12 @@
 |15 | Pandas  | Mathematics |
 |16 | [PySpark](https://www.javatpoint.com/pyspark)  | Python library for Apache Spark, a distributed computing framework used for large-scale data processing |
 
-# IDE
+# [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/
 |#SNo| #IDE | #Usage | 
 | :--- | :--- | :--- |
-|1 | [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)  |Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner  |
-|2 | [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  |  |
-|3| [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)   | |
-|4| [Spyder](https://www.spyder-ide.org/)  | Web development (Server-side) |
+|1 | [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  | Python Extensions in VS Code IDE : ms-python.python, tht13.python , formulahendry.code-runner |
+|2| [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)   | |
+|3| [Spyder](https://www.spyder-ide.org/)  | Web development (Server-side) |
 
 # Tutorial
 * [Python Frameworks](https://www.javatpoint.com/python-frameworks)
