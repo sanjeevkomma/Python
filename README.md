@@ -34,6 +34,7 @@
 |13 | Scipy  | Machine Learning |
 |14 | [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)  | Mathematics |
 |15 | Pandas  | Mathematics |
+|16 | [PySpark](https://www.javatpoint.com/pyspark)  | Python library for Apache Spark, a distributed computing framework used for large-scale data processing |
 
 # Tutorial
 * [Python Frameworks](https://www.javatpoint.com/python-frameworks)
