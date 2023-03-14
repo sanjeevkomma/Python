@@ -31,13 +31,12 @@
 | 10| PyTorch   | Machine Learning  |
 |11 | Scikit-learn  | Machine Learning |
 |12 | [Matplotlib](https://www.javatpoint.com/how-to-install-matplotlib-in-python)  | plot the graphs, Machine Learning |
-|13 | Scipy  | Machine Learning |
+|13 | [SciPy](https://www.javatpoint.com/python-scipy)  | Machine Learning |
 |14 | [Numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp)  | Mathematics |
 |15 | Pandas  | Mathematics |
 |16 | [PySpark](https://www.javatpoint.com/pyspark)  | Python library for Apache Spark, a distributed computing framework used for large-scale data processing |
 |17 | [Seaborn](https://www.javatpoint.com/python-seaborn-library)  | Python library for visualization of the graphical statistical plotting in Python |
 |18 | [Sklearn](https://www.javatpoint.com/what-is-sklearn-in-python)  |  |
-|19 | [SciPy](https://www.javatpoint.com/python-scipy)  |  |
 
 # [Python IDEs](https://www.stxnext.com/blog/best-python-ides-code-editors/)
 |#SNo| #IDE | #Usage | 
