@@ -11,6 +11,19 @@
 * [How to Set Path](https://www.javatpoint.com/how-to-set-python-path)
 * [Download Visual Studio Code IDE](https://code.visualstudio.com/#alt-downloads) Its from Microsoft
 
+# How to Install, Build, Run , Debug & Deploy Python application in Local
+# 1. Prerequisites
+
+# 2. Install
+
+# 3. Build
+
+# 4. Run 
+
+# 5. Debug
+
+# 6. Deploy
+
 # Commands
 * python --version
 * python -V
