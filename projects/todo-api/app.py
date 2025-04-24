@@ -52,4 +52,6 @@ def delete_todo(todo_id):
     return jsonify({"message": "Todo deleted"})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    os.environ["FLASK_ENV"] = "development"  # Optional
+    app.run(use_reloader=False, debug=True)
