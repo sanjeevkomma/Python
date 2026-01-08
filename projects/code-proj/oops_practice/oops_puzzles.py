@@ -20,3 +20,9 @@ default_country = Country()
 india = Country('india')
 india.instance_method1()
 instance_method2()
+
+# ---output--
+# Default
+# india
+# instance method
+# instance method2
