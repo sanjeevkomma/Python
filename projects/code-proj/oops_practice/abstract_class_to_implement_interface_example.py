@@ -46,7 +46,7 @@ chessGame.down()
 chessGame.left()
 chessGame.right()
 
-# --outut--
+# --output--
 # jump
 # goes into a hole
 # go forward
