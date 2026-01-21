@@ -5,6 +5,10 @@ class Player:
         self.name = name
         Player.count += 1
 
+    @staticmethod
+    def get_count():
+        return Player.count
+
 messi = Player('Messi')
 ronaldo = Player('Ronaldo')
 
@@ -14,7 +18,16 @@ messi.count = 100
 print(Player.count) # 2
 print(messi.count) # 100
 
+print('==========')
+print(messi.get_count())
+print(ronaldo.get_count())
+print(Player.get_count())
+
 # --output--
 # 2
 # 2
 # 100
+# ==========
+# 2
+# 2
+# 2
