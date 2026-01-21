@@ -46,7 +46,26 @@ chessGame.down()
 chessGame.left()
 chessGame.right()
 
+print('==========')
+
+# Polymorphism
+games = [MarioGame(), ChessGame()]
+for game in games:
+    game.up()
+    game.down()
+    game.left()
+    game.right()
+
+
 # --output--
+# jump
+# goes into a hole
+# go forward
+# ChessGame up
+# ChessGame down
+# ChessGame left
+# ChessGame right
+# ==========
 # jump
 # goes into a hole
 # go forward
