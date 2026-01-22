@@ -8,15 +8,15 @@ for number in numbers:
 print(numbers_length_four) # ['Zero', 'Four', 'Five', 'Nine']
 
 print('===========')
-numbers_length_four = [number for number in numbers]
+numbers_length_four = [number for number in numbers] # List Comprehension
 print(numbers_length_four) # ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine']
 
 print('===========')
-numbers_length_four = [len(number) for number in numbers]
+numbers_length_four = [len(number) for number in numbers] # List Comprehension
 print(numbers_length_four) # [4, 3, 3, 5, 4, 4, 3, 5, 5, 4]
 
 print('===========')
-numbers_length_four = [number.upper() for number in numbers]
+numbers_length_four = [number.upper() for number in numbers] # List Comprehension
 print(numbers_length_four) # ['ZERO', 'ONE', 'TWO', 'THREE', 'FOUR', 'FIVE', 'SIX', 'SEVEN', 'EIGHT', 'NINE']
 
 print('===========')
