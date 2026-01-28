@@ -1,0 +1,6 @@
+words = ["apple", "banana", "cherry"]
+print(list(map(lambda word : word.upper(), words))) # ['APPLE', 'BANANA', 'CHERRY']
+print(list(map(lambda word : len(word), words))) # [5, 6, 6]
+numbers = [1,5,2,9]
+print(list(map(lambda x : x ** 2, numbers))) # [1, 25, 4, 81]
+print(list(map(lambda x : x ** 2, range(1,11)))) # [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
