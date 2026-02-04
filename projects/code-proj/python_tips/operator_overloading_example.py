@@ -16,9 +16,18 @@ class Money:
         return (self.currency, self.amount) == (other.currency, other.amount)
     # def __eq__(self, other):
     #     return (self.currency, self.amount) < (other.currency, other.amount)
-
     def __ne__(self, other):
         return (self.currency, self.amount) != (other.currency, other.amount)
+
+    def __gt__(self, other):
+        return (self.currency, self.amount) > (other.currency, other.amount)
+    def __ge__(self, other):
+        return (self.currency, self.amount) >= (other.currency, other.amount)
+
+    def __lt__(self, other):
+        return (self.currency, self.amount) < (other.currency, other.amount)
+    def __le__(self, other):
+        return (self.currency, self.amount) <= (other.currency, other.amount)
 
     def __repr__(self):
         return repr((self.currency, self.amount))
@@ -29,3 +38,8 @@ print(amount1 + amount2) # ('USD', 400)
 print(amount1 - amount2) # ('USD', -100)
 print(amount1 == amount2) # False
 print(amount1 != amount2) # True
+
+print(amount1 > amount2) # False
+print(amount1 >= amount2) # False
+print(amount1 < amount2) # True
+print(amount1 <= amount2) # True
