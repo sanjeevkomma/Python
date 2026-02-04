@@ -12,6 +12,11 @@ class Money:
     def __sub__(self, other):
         return Money(self.currency, self.amount - other.amount)
 
+    def __eq__(self, other):
+        return (self.currency, self.amount) == (other.currency, other.amount)
+    # def __eq__(self, other):
+    #     return (self.currency, self.amount) < (other.currency, other.amount)
+
     def __repr__(self):
         return repr((self.currency, self.amount))
 
@@ -19,3 +24,4 @@ amount1 = Money('USD', 100)
 amount2 = Money('USD', 300)
 print(amount1 + amount2) # ('USD', 400)
 print(amount1 - amount2) # ('USD', -100)
+print(amount1 == amount2) # False
